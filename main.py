@@ -12,7 +12,7 @@ api = create_api()
 #     print(f"{tweet.user.name} said {tweet.text}")
 
 ## Sample method to update status
-# update_status(api, 'The basic laws of human stupidity')
+# update_status(api, '<status>')
 
 ## Sample method to add follower
-# add_follower(api, 'DhawalAgrawal8')
+# add_follower(api, '<screenname>')
